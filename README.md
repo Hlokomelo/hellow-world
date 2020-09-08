@@ -1,2 +1,4 @@
 # hello-world
-I am greeting the world.
+Hello world!
+
+Hlokomelo here, I love GitHub.
